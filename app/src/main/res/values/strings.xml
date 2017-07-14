@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseUpload</string>
+    <string name="simple_view_behavior">com.lsl.base.widget.SimpleViewBehavior</string>
+</resources>
